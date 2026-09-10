@@ -13,3 +13,15 @@ Carrying cost analysis
 Process improvement
 Inventory turnover analysis
 its indeed a long list but along the way it thought me many lessons in supply chain management :)   
+
+## 🚀 Analytics Roadmap
+This repository is part of an ongoing multi-part series in supply chain controlling and auditing. Upcoming modules include:
+
+- [x] ABC/XYZ Velocity Matrix
+- [ ] Demand Forecasting
+- [ ] Economic Order Quantity (EOQ) Analysis
+- [ ] Reorder Point & Lead Time Modeling
+- [ ] Carrying Cost Analysis
+- [ ] Inventory Turnover & Process Optimization
+
+---
